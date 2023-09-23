@@ -4,7 +4,7 @@ This template has been created as a demo to show how you can spin up a cloud dev
 
 👇 Spin up a cloud development environment:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/dataprofessor/streamlit-codespaces-template?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sridharaiyer/sri-streamlit-codespaces-demo?quickstart=1)
 
 ## GitHub Codespaces
 
